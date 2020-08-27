@@ -17,9 +17,12 @@ int test()
 
 int main()
 {
+<<<<<<< HEAD
     // I'm writing somthing, but havn't finished yet!
     // TODO:
     
+=======
+>>>>>>> test
     printf("Hey, Little Ross!");
     test();
     return 0;
